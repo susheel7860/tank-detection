@@ -1,1 +1,1 @@
-AI model for tank detection
+AI Model for detecting tank-detection
